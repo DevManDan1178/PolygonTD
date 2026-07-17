@@ -1,0 +1,34 @@
+{
+    "name": "Player Input",
+    "maps": [
+        {
+            "name": "Camera",
+            "id": "9ea1c2b3-9846-4967-878f-2e6e8961c3f2",
+            "actions": [
+                {
+                    "name": "Drag",
+                    "type": "Button",
+                    "id": "4a0f5bb6-76ce-480c-9fe3-ceb6dc771382",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4af05457-e8e7-40f9-a557-88779442bad0",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Drag",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
