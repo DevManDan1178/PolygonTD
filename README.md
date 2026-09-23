@@ -72,6 +72,13 @@ A playable WebGL version is available on my portfolio:
 - Unity
 - C#
 
+## Screenshots
+#### Level 1
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ca7ae3b-b63d-42f2-8e07-796f64f66188" />
+
+#### Level 4 (Final level)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/365d8383-860e-418f-b345-15d24b4b2fca" />
+
 ## Repository Structure
 
 The repository contains the original Unity project, including:
