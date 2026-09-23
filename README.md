@@ -4,6 +4,7 @@ Polygon TD is a simple tower defense game built in Unity where towers and enemie
 
 Place turrets on tiles, defend the endpoint, and customize your tower upgrades to optimize your defenses.
 
+
 ## Gameplay
 
 - Place turrets on available tiles.
@@ -71,6 +72,9 @@ A playable WebGL version is available on my portfolio:
 
 - Unity
 - C#
+- OST with FL Studio (free)
+
+*All level soundtracks are made by me and available [here](https://www.danoliu.me/ost) on my portfolio website*
 
 ## Screenshots
 #### Level 1
